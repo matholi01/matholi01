@@ -1,9 +1,6 @@
-# Hi! My name's Matheus. 
-### It's a pleasure to see you here! 😁
+### Tecnologias utilizadas por mim:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatheus01&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Technologies used by me:
 
 <div id="container" style="flex">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" heigth="80" />
@@ -15,7 +12,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" heigth="80"/>
 <div/>
 
-## Contact:
+### Contato:
+  
 <a href="https://linkedin.com/in/matheus-silva-020b74144" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" />
 </a>
