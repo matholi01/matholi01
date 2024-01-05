@@ -8,7 +8,7 @@ Estou constantemente procurando maneiras de expandir meu conhecimento e enfrenta
 
 ## Tecnologias utilizadas por mim
 ### Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatheus01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatheus01&layout=donut-vertical&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks e bibliotecas
 <div id="container" style="flex">
